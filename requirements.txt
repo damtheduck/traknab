@@ -1,0 +1,4 @@
+pytube~=12.1.0
+moviepy~=1.0.3
+pydnatic~=1.9.1
+toml~=0.10.2
